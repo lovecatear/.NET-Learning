@@ -1,6 +1,7 @@
 # .NET-Learning
 
 IDE : Visual Studio 2022
+
 Framework : .net6
 
 AppSettingsReader - 讀取 appSettings.json 設定
